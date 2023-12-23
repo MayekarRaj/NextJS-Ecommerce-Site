@@ -9,9 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.4"
+    "@sanity/client": "",
+    "@sanity/image-url": "",
+    "@stripe/stripe-js": "",
+    "canvas-confetti": "",
+    "next": "",
+    "next-sanity-image": "",
+    "react": "",
+    "react-dom": "",
+    "react-hot-toast": "",
+    "react-icons": "",
+    "stripe": ""
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
